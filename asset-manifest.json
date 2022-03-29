@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/JorgeTordecilla/Actividad4/static/css/main.0febfc2c.css",
-    "main.js": "/JorgeTordecilla/Actividad4/static/js/main.263ea21f.js",
+    "main.js": "/JorgeTordecilla/Actividad4/static/js/main.a1aee3fe.js",
     "index.html": "/JorgeTordecilla/Actividad4/index.html",
     "main.0febfc2c.css.map": "/JorgeTordecilla/Actividad4/static/css/main.0febfc2c.css.map",
-    "main.263ea21f.js.map": "/JorgeTordecilla/Actividad4/static/js/main.263ea21f.js.map"
+    "main.a1aee3fe.js.map": "/JorgeTordecilla/Actividad4/static/js/main.a1aee3fe.js.map"
   },
   "entrypoints": [
     "static/css/main.0febfc2c.css",
-    "static/js/main.263ea21f.js"
+    "static/js/main.a1aee3fe.js"
   ]
 }
