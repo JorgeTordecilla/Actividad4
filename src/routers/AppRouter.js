@@ -7,7 +7,7 @@ import { PublicRoute } from "./PublicRoute";
 
 export const AppRouter = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route
           path="/login"
